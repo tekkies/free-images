@@ -1,2 +1,2 @@
 # Free Images
-Free-to-use images
+This is free and unencumbered software released into the public domain.
