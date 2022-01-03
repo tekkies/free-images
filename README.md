@@ -1,2 +1,2 @@
-# free-images
+# Free Images
 Free-to-use images
