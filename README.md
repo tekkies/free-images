@@ -9,3 +9,6 @@ This is free and unencumbered software released into the public domain.
 
 ## NodeMCU-v2.svg
 ![NodeMCU-v2.svg](Images/NodeMCU-v2.svg)
+
+## NodeMCU-v2-Internal-Labels.svg
+![NodeMCU-v2-Internal-Labels.svg](Images/NodeMCU-v2-Internal-Labels.svg)
